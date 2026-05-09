@@ -46,7 +46,7 @@ git clone https://github.com/VeronicaOrtCastillo/5ta-Esencia-BD.git
 Entrar a la carpeta:
 
 ```bash
-cd TU_REPOSITORIO
+cd 5ta-Esencia-BD
 ```
 
 ---
@@ -83,6 +83,10 @@ Puedes ejecutarlo desde:
 ## 3. Ejecutar insert.sql
 
 Este archivo inserta registros iniciales en la base de datos.
+
+Puedes ejecutarlo desde:
+
+- MySQL Workbench
 
 ---
 
